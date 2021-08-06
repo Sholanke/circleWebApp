@@ -302,7 +302,8 @@ body {
 }
 
 .app-footer {
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   background: #f2f6fc;
   margin-top: 91px;
 }
