@@ -175,7 +175,7 @@ body {
 }
 
 .home-page__hero .app-section {
-  margin-left: 0;
+  width: 100%;
 }
 
 .home-page__hero * {
@@ -239,6 +239,10 @@ body {
   border-radius: 37px 37px 0 0;
   max-width: 451px;
   position: relative;
+}
+
+.home-page__pay__grid__card__base .card-details {
+  width: 100%;
 }
 
 .home-page__pay__grid__card__base__icon {
