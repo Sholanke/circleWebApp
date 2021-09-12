@@ -19,6 +19,12 @@ body {
   font-size: 16px;
 }
 
+form {
+  input[type="submit"] {
+    -webkit-appearance: none;
+  }
+}
+
 .app-section {
   max-width: 1224px;
   margin-left: auto;
